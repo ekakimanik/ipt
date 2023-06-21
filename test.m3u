@@ -46,7 +46,7 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 #EXTINF:0,Zee Cinema
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/zee-cinema/chunks.m3u8?
 #EXTINF:0,&pictures
-http://12.1.1.1:8082/And-Pictures/tracks-v1a1/mono.m3u8?token=0ddc50b21ffdb91fd55ab24230023f025102ea93-d9a851392b136dca338f08a1622ce7e5-1687381569-1687370769
+http://172.20.2.5:8082/And-Pictures/index.fmp4.m3u8?
 #EXTINF:0,Sony Max
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sony-max/chunks.m3u8?
 #EXTINF:0,Jalsha Movies
