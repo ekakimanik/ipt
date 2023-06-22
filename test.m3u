@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,live 1
-http://12.1.1.1:8082/Somoy-TV/tracks-v1a1/mono.m3u8?token=78978ab2c650e9d2229f880b93cfabdf76eb2e14-28d644388713ee1c667f6360ecc597d4-1687379898-1687369098
+http://172.20.2.5:8082/Star-Sports-1/index.fmp4.m3u8?token=1f6af837c645e376b3236e13b4c9fe00bbafda65-fe484fd156affddb236638569455f8e1-1687411545-1687400745
 #EXTINF:0,Channel 1
 http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs2/chunks.m3u8
 #EXTINF:0,live movie
