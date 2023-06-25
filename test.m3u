@@ -82,7 +82,7 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 #EXTINF:0,zee bangla
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/zee-bangla/chunks.m3u8?
 #EXTINF:-1,Star Jalsha
-http://12.1.1.1:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=c3f2fd53861631d84b434e288aef3ac886986c14-a9908d32f86a526ab297e535801def41-1687420417-1687409617
+http://172.20.2.5:8082/Star-Jalsha/index.fmp4.m3u8?
 #EXTINF:0,Colors bangla
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/colors-bangla/chunks.m3u8?
 #EXTINF:0,Zee Tv
