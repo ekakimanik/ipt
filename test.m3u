@@ -8,7 +8,7 @@ https://sachinmirror.ml/7:/MirrorData/Kisi.Ka.Bhai.Kisi.Ki.Jaan.2023.1080p.ZEE5.
 #EXTINF:0,Channel 2
 http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs1/chunks.m3u8
 #EXTINF:0,T-SPORTS
-https://live.tsports.com/live/tsports_live_1080/index.m3u8
+http://172.20.2.5:8082/T-Sports/index.fmp4.m3u8?
 #EXTINF:0,Star Sports 1
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsports-1/chunks.m3u8?
 #EXTINF:0,Ten sports
