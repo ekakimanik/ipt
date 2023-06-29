@@ -56,7 +56,7 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 #EXTINF:0,Star gold select
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-gold-select/chunks.m3u8?
 #EXTINF:0,Jalsha Movies
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-jalsha-movies/chunks.m3u8?
+http://172.20.2.5:8082/Jalshamovies/index.fmp4.m3u8
 #EXTINF:0,zee cinema bangla
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/zee-cinema-bangla/chunks.m3u8?
 #EXTINF:0,Star gold select
