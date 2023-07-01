@@ -8,7 +8,7 @@ http://media.ctgfun.com/media/disk3/Hindi%20Movies/2023/Pathaan.2023.1080p.WEB-D
 #EXTINF:0,Channel 2
 http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs1/chunks.m3u8
 #EXTINF:0,T-SPORTS
-http://172.20.2.5:8082/T-Sports/index.fmp4.m3u8?
+https://mprod-cdn.toffeelive.com/banvsafg/match-1/master_1000.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1688221366:KeyName=prod_linear:Signature=nYQ-cUq5QILG6_bqjU2rLBksXDKO8tmGMqu3EeNhtyLRHl9cqatQ60CPfIimHivt_zY3s22vfWsRzhBwJ_MUAQ
 #EXTINF:0,Star Sports 1
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsports-1/chunks.m3u8?
 #EXTINF:0,Ten sports
