@@ -1,81 +1,435 @@
-#EXTM3U
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Sony_Max_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Sony_Max_SD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Sony_MAX2&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Colors_Cineplex_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Colors_Cineplex&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Rishtey_Cineplex&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Zee_Cinema_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=And_Pictures_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=B4U_Movies&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Zee_Classic&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Bhojpuri_Cinema&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Enterr_10&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Zee_Action&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Zee_Anmol_Cinema&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Zee_Cinemalu&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Manoranjan_Movies&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Sony_Pix_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Sony_Pix_SD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Six_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Ten_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Ten2_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Ten3_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Ten_1&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Ten_2&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Ten_3&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Sony_Six_SD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Jio_Cricket&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Jio_Cricket_English&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Jio_Cricket_1_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Jio_Cricket_2_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Jio_Cricket_3_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Jio_Cricket_4_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Jio_Cricket_1_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Jio_Sports&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Dsports_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Jio_Football&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Jio_Cricket_1_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Jio_Football_1&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Jio_Football_2&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Jio_Football_3&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Jio_Football_4&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Jio_Football_Bangali_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=DD_Sports&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Colors_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Sony_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Sony_Wah&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Sony_SD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Sony_aath&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Zee_TV_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Nick_Hindi&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Nick_Bangla&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Pogo_Hindi&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Cartoon_Network_Hindi&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Discovery_HD_World&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Sony_BBC_Earth_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=History_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=TLC_HD_World&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Animal_Planet_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Travel_XP_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=And_TV_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Sony_SAB_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Comedy_Central_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Colors_Bengali_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Colors_Infinity_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Colors_Infinity_HD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=MTV_Beats_HD&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=MTV_Beats_SD&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Mastiii&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Zing&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=MTV_HD_Plus&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=9XM&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=VH1&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=E_24&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=B4U_Music&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=Zoom&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=MTV&q=1200&e=.m3u8
-http://tv.googledrivelinks.com:8088/live.php?c=9X_Jalwa&q=1200&e=.m3u8
-#EXTINF:0,http://tv.googledrivelinks.com:8088/live.php?c=Sangeet_Bangla&q=1200&e=.m3u8
+#EXTINF:-1 group-title="SWITCH TV" tvg-chno="" tvg-id="" tvg-logo="",Abu Dhabi Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e368db16bf6dd49d20d0b41d44958b10:41869d88d16d0b0421010b38401946ea
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000027350000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV" tvg-chno="" tvg-id="" tvg-logo="",Abu Dhabi Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02b683d17f6083eee1b39bfc2ff90910:bc2baad79b5ab10a3c0a5af1ac7f6811
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000027360000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV" tvg-chno="" tvg-id="" tvg-logo="",Nat Geo Abu Dhabi HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41741bfe1dcff94095c571bef1c68d10:ff944a54d8c151c02e28fcc1475cc9f7
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000036990000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV" tvg-chno="" tvg-id="" tvg-logo="",Saudi 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aaf1765773a25a58557fecd947dc7b10:be970f187024c4e7c3585dee24555b18
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000055380000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV" tvg-chno="" tvg-id="" tvg-logo="",Saudi Quran HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1047bb17701efc2968a44f9147a7610:dfb01027ec98ca744a98be3198e760ca
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000020970000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV" tvg-chno="" tvg-id="" tvg-logo="",Saudi Sunna HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0088bb012d32f812040930dc7239a210:9db9be5281908e6c238e83d71de13736
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000027300000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV" tvg-chno="" tvg-id="" tvg-logo="",Al Ekhbariya HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c024c4e37e9df1e8297dde69493f910:3214849201780cb8b78b5b3e469f1d73
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000040270000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV" tvg-chno="" tvg-id="" tvg-logo="",Dubai One
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0816b65a1aef59076023b72c93e31d10:c6db73dc6476c87ba668eca198030c8b
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000025240000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",MBC 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ccd56ad5ebb10d65ddb38846dc36a10:03959c8ef230ef5212f7ae1536037588
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000023800000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",MBC 2 HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fff552df703113bc0025edaa1ed3610:e09d1d7758d64a1243f16f311f3d82fd
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000023750000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",MBC 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e320fa7f3b57fe95cb4b75775f92510:f9a533d623b29387c7364aaa063bdcde
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000052610000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",MBC 4 HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93e50f14ed8272fd689c274a8f109110:2b2f3c554e6b6a3e1809f67f71f6cf06
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000023760000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",MBC Max HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0153cff47373654594a1d66f8acbd910:af5dc93b2838805272f596ce2eb97320
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000023790000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",MBC Action HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=acd3e7931ceeb6d06d40ada6deb2a810:70d6691eb82f001c2a0e6fb326536aae
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000023770000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",MBC Maser 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89e3b80a1b29eff6a31173f274ca1010:0337dc3ebbcb51164ce494d5881b6436
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000017040000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",MBC Maser 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=561707327713f8d5221796e31607c210:9b00d2cd2e0c4d75cc6fdd0c4aa81709
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000026280000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",MBC+ Variety HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bcfbc850ad3e9bbfc4abbb1ce0b5ea10:dc5b8d4c48a8cd4768b795ed815378ce
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000041480000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",MBC Drama HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8df80f391e866f4780659f6675805510:7c976f44e32450dd0f5cb0dbd3afaa9f
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000022730000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",MBC+ eLife HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f927f7e752432d07f3cdb7cc6642f10:1f4b78b58b70575fe768f2e8e1b9d066
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000051890000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",MBC Bollywood HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3678d7e2941b8e032206d1600482c10:dcf6ac5d9b3ad535767e48f73b5e1b42
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000025320000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",CrIIIcLife -1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ace1436e5e79df10999787b693016710:df08193e5aace671c6fb3a63bceb6bf3
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000067880000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",CrIIIcLife-2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5662a11667204a45b6d8444c3195c410:fbd6d1b9e0402483869cf0807c12914d
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000068650000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",CrIIIcLife-3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ff40703c6dd3dc3edd0d07692ac5c10:751d54aa27957f4e1f7ec7ab468f5ad6
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000073270000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",GolfLife
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a0fa12663e77778c5fd46a85bfec610:fa98f76e53bbb0c69a1bf408881f26bb
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000075992728/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",Sharjah Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=871c1274c0c62b19afe0f7bbd1caa210:0bdf71934f9083b2b76f8a6861c346aa
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000038010000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",SSC 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=499ca801400c91cbe73e4ed49ea11f10:cac58b6ef14945fc81779e7f0f24c55b
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000075992361/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",StarzPlay Sports 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c908df20f0406ce364594e10095d410:c3a977b483daa41dc416d9ccb912b4f4
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000075992601/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",AD Sports Premium 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93d4b6051fc4180a1a2899c8c511de10:bd62b6671c7901789f96cbad83a112f8
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000075992597/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",AD Sports Premium 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a45e3210df4d1486e17ac9937c923c10:0415b5264bf99ef13fb1aa5623a7414b
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000075992599/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",AD Fight HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a171bd6d4859a468e362d0cf5c8a2110:71287b1af42d449b92b686b9723ee366
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000075990158/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",FightBox HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cb2360db2b2a688a998fdcd848a6b10:8150110616ab539189471d4738ceb684
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000022060000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",Nile Sports 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=957c767c952791d44ed8fc06bceb7110:745462eeba023202d5699c6cb17dac5e
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000010020000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",YAS Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0ea834533b7959381382614f4805610:ba44141d800027cc0cfdb42b07fb91f3
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000028480000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",ON Time Sports HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7630deb26f89b0c9dfabd12d59de10:70a18f5cebbf8eb28e9089dd064efc87
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000049720000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",Combat GO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=15c1fe21f8f27f2faa36dbf701667710:17b9d3bb8b82c3dcd102e29c3f110214
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000073880000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",ZEE TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86ba065d10f08ecf7d450b7ed0fadf10:e2e8f8acb1144cf7cc9595f022cf8911
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000023820000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",ZEE AFLAM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20fd5bbd0fdd2afb9b561bdd05f2c810:fca4d43325f4bb3a5ed72798ba59d011
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000050020000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",ZEE ALWAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ca9a66f402cd7f977766be70b45bb10:f898fe6548151661b056ee0b7ee3c755
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000010900000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",Cartoon Network Hindi HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fa13b8052123adb10dc44c632ffb310:a1c8227d32b3befcf320fd81625761ab
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000042630000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",Cartoon Network HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e94de746a048632abb2c1e23cacf6810:df14de1b52083c3b02dcc557a0f9502e
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000047490000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",Cartoon Network Arabia 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9557be1a02555cff0668226bfe37c810:c6a1d06221e9a37fcbf3f2adca85f312
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000050870000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",e-Junior HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1fe56906fc56f6867fa124df2814210:2ff44054600187c80c80a6b063c9d8cc
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000028240000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",Nickelodeon HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=deb084352bf18492a2bef4ad41b66f10:7899a0eedff6934d12a4377f92295fd6
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000027260000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",Disney Junior HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2dfdf3c198ca21deaaa74cc28b619910:44d13bf7af7f551c6872d1bbf1375af1
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000017940000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",Nicktoons HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a00ffce6c6d6a24f359a481ffd791a10:db7d4060716c0de635c9b1632c0213f8
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000050750000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",Star World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=125449cdf4b5d8562a6cb7a88071db10:0924e942d49ab861cd9742d356912b51
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000023830000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",Star Movies 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8aba4c5f10f3901d58ba1e121304ae10:48d9edb6a3e8a173ca0e83dc38f52a83
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000023810000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",Star Gold
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e73b7aaf7c0564a59462e58f2ccb0510:0021a8b2ffa0c1c967f125dee46c813a
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000007520000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",Star Gold 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5dd940d302e22bab12f3445bfbe0510:85c82cffcac97ba763a5a99264fda449
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000009260000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",Star Gold Romance
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b07dc00e39797424e4bc8389d88efe10:bf4c0346000b4b97c998f97aea2ae68e
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000007370000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",Star Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d765135bd2a09db8cd4d222722355010:8bf5caf98a7d05c478a221c80ec52e81
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000011130000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",Filmbox HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d781cceba1a3dce891a84a3d3a893e10:4fed2d50f077855ffa207cad98223091
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000042690000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",B4U Plus 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bc03c12cf86049e0226d425f1e17910:0c04ee3442bef6ff7a473449cf0ce6f8
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000014030000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",B4U Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=873d4ab4b7b11c6c9035df1c40d68f10:e19c98e3a469463d8e66096e8ba1e52a
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000075992864/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",B4U Music
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=feb04ca5ec817c7d2ba707f6a5774b10:6a202ab0373a8cc93e971d85488d61d0
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000075992828/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",MTV India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=afa0ea7602b109b85042685dbf9d5f10:d88af08edc3495617361339dc73a7733
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000009640000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",BOL Entertainment HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eacb31adf5654c392c4eff5a15a05210:8edb355217a2123279c1afb75a4f5471
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000072380000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",OSN TV Mezze
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39a1ff7fda7362b1b19ecd07676fd210:ff8d471b6c79e12dc5c641c76930969d
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000072770000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",OSN TV Yahala
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3a3dc89769923b1b559a4cf1062ab10:e480938e4fead2c0008ff112e7687fa3
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000016850000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",OSN TV Yahala Al Arabi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1346e278c7c5b7afef5b89351e995c10:d5bccfb9f5d5088126be9fca32e60001
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000022630000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",StarzPlay Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfe0122f37db7f24db698b7c50347d10:3042b967aadc4149b3c7a06351a76450
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000075992679/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",StarzPlay Series
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abc24902662098ff09b745c76a134f10:96ab10e1cfee649fe43553cc8948236d
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000075992680/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",StarzPlay Comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b7988036df2636667d1baa0409ac910:cd3845b8187588555373f68d5c44314a
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000075992678/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",STAR Utsav HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fa2fa90bda1168af1801889377e0410:d977fbb72ce38511fe37705ded1465f7
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000000130000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",STAR Jalsha HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3187bc0f4f39c0a85da15981cfe1c10:8d370535454f899e8efe08c5c9a926a3
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000004370000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",STAR Bharat HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c123a4b885170c819d3f52296113c610:53821c24100101c5eba0e7ae09073ed1
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000053490000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",& TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a812cbc900225864e3ea9f079d69810:5afedd449375290115918f723db7aacc
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000036100000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",ZEE Cinema HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4f5db44d58a6d36aca04b17790cb510:de1c40f6dfcb7df542319089aeb28fa6
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000010580000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",FilmBox Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b3776f8e2c9835a39db71bcea686510:b6ca3d622976a109073e851f359bf9b1
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000075992653/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",StarzPlay Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8df651f2dd410548f2f63a7bab111b10:102eb1e805f5342800d47705f6c22189
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000075992677/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",KSA Sports 1 HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed29f55152c7f1d1e832be7104006010:2ffa61603ca5aae8bd439d695c404a66
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000055010000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",KSA Sports 2 HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a148b8c77ad5d0520dd38a005d0d510:8c6363030d0d32ba0b004b141499eb18
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000046610000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",KSA Sports 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3e709de93f60b6b2cc08b2153b34710:a7d275f6104959222577f4824094b04c
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000064140000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",KSA Sports 4 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b854bcd431d4afc49f5e670969be7210:1e828b5c942b0f327e3a2556c516b07e
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000064130000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",Dubai Sports HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08cb82e6c70670a50a7c9a6f12b5e110:f7151bc672b9525304441fd9492f14f7
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000037950000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",Dubai Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2510e543b4cd7794c39da3845be7fa10:a9ec04f65a3712d1165901278d750490
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000008240000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",Dubai Sports RACING 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ecbaf80915d54114e4077555c36d810:74d6854e3788315d06fc0d25222bd542
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000038000000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",Boomerang HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=579aa1d58df011b2a68fc3c84d556310:a9bb02fde1eb0f33db12ae3dda33017c
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000047480000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",OSN TV Yahala Aflam 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=586639d9aa33b6aacb1f587b9c8e2710:6c4067487243c1d0f83d5a173a870d9b
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000040210000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",FilmBox Family 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adc4c6ab705bdd57b3344d06eef57110:1fbe8739238641f65ea720c73bd90102
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000075992654/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",Nat Geo HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52612ad7fe33964d123c0cc7b22ec410:e0faf5dcc88029708b523d9172315b16
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000008520000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",HUM Sitarey 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e5dc62ecc946c789b0a6660bf760110:abffc5ddd13c361330139dec6d10ce44
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000026270000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+#EXTINF:-1 group-title="SWITCH TV PAID" tvg-chno="" tvg-id="" tvg-logo="",MBC Persia HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=435d22056a1f5c3208c19a7376c26910:be6e52098d3ae0246c36c758e6779654
+http://tr.linear2.tr-cdn.etisalat.ae/linear2-livewvdaf/10000000061900000/second-screen.mpd|X-Forwarded-For=96.9.153.37
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
