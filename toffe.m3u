@@ -1,0 +1,791 @@
+[{ 
+"logo": "",
+"name": "B4U Movies", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Colors Bangla", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/colors_b/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Dubai Sports", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/dubai_sports/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Zee Bangla", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Discovery HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Discovery SD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Discovery KIDS", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "TOFFEE Drama", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Sports LIVE 1", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_live_01/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Ekattor HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ekattor_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "STAR Gold", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/star_gold/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "STAR Jalsha Movies", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/star_jalsha_movies/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Nat Geo SD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ngc_sd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "NAT Geo WILD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ngc_wild/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "STAR PLUS", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/star_plus/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "STAR JALSHA", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/star_jalsha/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "STAR Bharat", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/star_bharat/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Independent", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/independent/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "CHANNEL 24", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_24/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "DBC News", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/dbc_news/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "ATN NEWS", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/atn_news/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "News 24 HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/news24hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "JAMUNA TV", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "SA TV HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/satv_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Global TV", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/global_tv/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "FOX LIFE", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/fox_life/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Sony Aath", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_aath/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Sony MAX", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Sony MAX HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/set_max_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "SET INDIA SD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainmnt_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "SET INDIA HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "SONY SAB SD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sab/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "SONY SAB HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sab_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "SONY WAH", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_wah/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "SONY MAX 2", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_2/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "SONY YAY", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_yay/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "SONY PAL", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pal/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "SONY PIX HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pix_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "SONY PIX", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pix/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "SONY TEN 1 HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten1_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "SONY TEN 2 HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten2_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "SONY TEN 3 HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten3_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "SONY SIX HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_six_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "SONY TEN 1 ", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_1/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "SONY TEN 2", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_2/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "SONY TEN 3", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten3/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "SONY SIX ", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_six/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Animal Planet SD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_sd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Animal Planet HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "ID SD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_india_id_sd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "ID HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_india_id_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "EuroSports SD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/eurosports_sd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "EuroSports HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/eurosports_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "TLC SD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_sd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "TLC HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "SONY BBC Earth", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_bbc_earth/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "SONY BBC Earth HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_bbc_earth_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "History TV", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/history_tv/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Ekushey TV", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ekushey_tv/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Nick Junior", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/nick_junior/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Pogo SD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Nick", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/nick/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "CN SD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "CN HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "SONIC", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonic/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "ZEE Cafe HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cafe_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Colors Infinity HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/colors_infinity_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Comedy Central HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/comedy_central_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Saudi Quran TV 🕋", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/quran_tv/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Saudi Sunnah TV 🕌", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sunnah_tv/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "AND TV HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "AND PICTURE HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/and_picture_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Colors", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/colors/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "Colors Rishtey", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/colors_rishtey/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "ZEE Anmol", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_anmol/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "ZEE TV HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "ZEE CINEMA HD", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "ZEE Bollywood", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bolly/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, {
+"logo": "",
+"name": "ZEE Action", 
+"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_action/playlist.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "_fbp=fb.1.1688570416832.1355022306; _gcl_au=1.1.1532561294.1688570417; _hjFirstSeen=1; _hjSession_3142744=eyJpZCI6ImMyOTFkZjg3LTdjOWYtNGEyMi1iZDc4LWIwMDI1MzZjMTE2NyIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxODEsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _gid=GA1.2.79056387.1688570419; Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1689115195:KeyName=prod_linear:Signature=QsiDxubIzjzEi2Ql2pqKSY1fUdMigvTPi44MgDoUZ33QsVKP1OTBDwjP_LImtG5n8UX5HFNpXAucijyQVq6-CA; _hjSessionUser_3142744=eyJpZCI6IjI2YTJhMDY3LTkyYWUtNWZjZi04YzY2LWU4MDI2NDhlM2IyNCIsImNyZWF0ZWQiOjE2ODg1NzA0MTkxNjQsImV4aXN0aW5nIjp0cnVlfQ==; __gads=ID=3a0ac0252e432c73:T=1688571401:RT=1688571401:S=ALNI_MYUbg2FspUiuvaRfU8lmq0T_D5Zdw; _ga_5XQZEVNXW1=GS1.1.1688570416.1.1.1688573787.60.0.0; _gat_gtag_UA_200848626_1=1; _hjIncludedInSessionSample_3142744=0; _ga_BVPBWJ1QEY=GS1.1.1688570417.1.1.1688573788.0.0.0; _ga=GA1.2.1228830251.1688570417; _gat_UA-200848626-1=1",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}]
