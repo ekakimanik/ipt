@@ -2,7 +2,7 @@
 #EXTINF:0,live 1
 https://mprod-cdn.toffeelive.com/banvsafg/match-1/master_1000.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1689535065:KeyName=prod_linear:Signature=iESi0yfN4EFoA_ZmYMVKSRJvziUwpcL-0ivkErKUunRxN0Ci1xME-4ah8Xn7Yz4rejkDOxsMWSpeRY1VvfuADA
 #EXTINF:0,Channel 1
-http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs2/chunks.m3u8
+http://ddn.oncast.me:1934/dlive/ekattor.stream/chunks.m3u8|referer=http://ddn.oncast.me/
 #EXTINF:0,live movie
 http://movie.ctgfun.com/data/disk4/South%20Indian%20Movies/Don%202022%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Don%202022%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv
 #EXTINF:0,Channel 2
