@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,live 1
-https://mprod-cdn.toffeelive.com/banvsafg/match-1/master_1000.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1689535065:KeyName=prod_linear:Signature=iESi0yfN4EFoA_ZmYMVKSRJvziUwpcL-0ivkErKUunRxN0Ci1xME-4ah8Xn7Yz4rejkDOxsMWSpeRY1VvfuADA
+https://mprod-cdn.toffeelive.com/banvsafg/match-1/master_1000.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v
 #EXTINF:0,Channel 1
 http://ddn.oncast.me:1934/dlive/ekattor.stream/chunks.m3u8|referer=http://ddn.oncast.me/
 #EXTINF:0,live movie
