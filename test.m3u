@@ -1,111 +1,82 @@
-#EXTM3U
-#EXTINF:0,live 1
-https://mprod-cdn.toffeelive.com/indvwi/match-1/master_1000.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v
-#EXTINF:0,Channel 1
-http://ddn.oncast.me:1934/dlive/ekattor.stream/chunks.m3u8|referer=http://ddn.oncast.me/
-#EXTINF:0,live movie
-http://movie.ctgfun.com/data/disk4/South%20Indian%20Movies/Don%202022%20Hindi%referer20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Don%202022%20Hindi%20Tamil%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv
-#EXTINF:0,Channel 2
-http://ddn.oncast.me:1934/dlive/sp16.stream/chunks.m3u8|referer=http://ddn.oncast.me/
-#EXTINF:0,T-SPORTS
-https://live.tsports.com/live/tsports_live_1080/index.m3u8?
-#EXTINF:0,T-SPORTS 2
-http://172.20.2.5:8082/T-Sports/index.fmp4.m3u8?
-#EXTINF:0,Gazi Tv
-http://172.20.2.5:8082/Gazi-Tv/index.fmp4.m3u8?
-#EXTINF:0,Gazi Tv 2
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/gazi-tv/chunks.m3u8?
-#EXTINF:0,Star Sports 1
-http://172.20.2.5:8082/Star-Sports-1/index.fmp4.m3u8?
-#EXTINF:0,Ten sports
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ten-sports/chunks.m3u8?
-#EXTINF:0,Ptv Sports
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ptvsports/chunks.m3u8?
-#EXTINF:0,Star Sports 2
-http://172.20.2.5:8082/Star-Sports-2/index.fmp4.m3u8?
-#EXTINF:0,Star Sports Select 1
-http://172.20.2.5:8082/Star-Select-1/index.fmp4.m3u8?
-#EXTINF:0,Star Sports Select 2
-http://172.20.2.5:8082/Star-Select-2/index.fmp4.m3u8?
-#EXTINF:0,Sky sports mix
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/Sky-Sports-Mix/chunks.m3u8?
-#EXTINF:0,willow cricket
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/willow-cric/chunks.m3u8?
-#EXTINF:0,Bein Sports 1
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/bein-sports-1/chunks.m3u8?
-#EXTINF:0,Bein sports 2
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/bein-sports-2-premium/chunks.m3u8?
-#EXTINF:0,Sony ten1 
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonyten-1/chunks.m3u8?
-#EXTINF:0,Sony six
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonysix/chunks.m3u8?
-#EXTINF:0,sony ten 3
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonyten-3/chunks.m3u8?
-#EXTINF:0,sony ten 2
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonyten-2/chunks.m3u8
-#EXTINF:0,Espn
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonyespn/chunks.m3u8?
-#EXTINF:0,Sky sports cricket
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/Sky-Sports-cric/chunks.m3u8?
-#EXTINF:0,willow cricket
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/willow-cric/chunks.m3u8?
-#EXTINF:0,Zee Cinema
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/zee-cinema/chunks.m3u8?
-#EXTINF:0,&pictures
-http://172.20.2.5:8082/And-Pictures/index.fmp4.m3u8?
-#EXTINF:0,Sony Max
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sony-max/chunks.m3u8?
-#EXTINF:0,Star Gold
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-gold/chunks.m3u8?
-#EXTINF:0,Star gold select
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-gold-select/chunks.m3u8?
-#EXTINF:0,Jalsha Movies
-http://172.20.2.5:8082/Jalshamovies/index.fmp4.m3u8
-#EXTINF:0,zee cinema bangla
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/zee-cinema-bangla/chunks.m3u8?
-#EXTINF:0,Star gold select
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-gold-select/chunks.m3u8?
-#EXTINF:0,Star Movies
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-movies/chunks.m3u8?
-#EXTINF:0,Sony Pix
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sony-pix/chunks.m3u8?
-#EXTINF:0,Colors
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/colors/chunks.m3u8?
-#EXTINF:0,Hbo
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/hbo/chunks.m3u8?
-#EXTINF:0,Colors infinity 
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/color-Infinity/chunks.m3u8?
-#EXTINF:0,Sony
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonyhd/chunks.m3u8?
-#EXTINF:0,Sony sab
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sony-sab/chunks.m3u8?
-#EXTINF:0,zee tv
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/zee-tv/chunks.m3u8?
-#EXTINF:0,Star Plus
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-plus/chunks.m3u8?
-#EXTINF:0,zee bangla
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/zee-bangla/chunks.m3u8?
-#EXTINF:-1,Star Jalsha
-http://172.20.2.5:8082/Star-Jalsha/index.fmp4.m3u8?
-#EXTINF:0,Colors bangla
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/colors-bangla/chunks.m3u8?
-#EXTINF:0,Zee Tv
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/zee-tv/chunks.m3u8?
-#EXTINF:0,Sony Sab
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sony-sab/chunks.m3u8?
-#EXTINF:0,9XM
-http://172.20.2.5:8082/9XM/index.fmp4.m3u8?
-#EXTINF:0,9X Jalwa
-http://172.20.2.5:8082/9X-Jalwa/index.fmp4.m3u8
-#EXTINF:0,discovery
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/discovery/chunks.m3u8?
-#EXTINF:0, National geographic 
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/natg/chunks.m3u8?
-#EXTINF:0,star 3
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsports-3/chunks.m3u8?
-#EXTINF:0,nick
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/nick/chunks.m3u8?
-#EXTINF:0,Test
-http://data.kenecolor.com/data/disk6/New%20South%20Indian%20Movies/V%20%282021%29%20Hindi%20Dubbed%20Telugu%201080p%20WEBRip%20x264%20%5BDDN%5D/V%20%282021%29%20Hindi%20Dubbed%20Telugu%201080p%20WEBRip%20x264%20%5BDDN%5D.mkv
-#EXTINF:0,Test 2
-https://rw1icmfjzsb0agugd2luzhmgb2ygy2hhbmdllcbmb3igdghlesbjyxjyesb0agu.dont-share-bdh-links.workers.dev/0:/00/HIT%20The%20Second%20Case%202022%20WebRip%20UNCUT%201080p%20x265%20HEVC%2010bit%20Hindi%20Telugu%20DDP%205.1%20ESub%20-%20mkvCinemas.mkv
+[{
+    "name": "LIVE | Bangladesh vs Sri Lanka",
+    "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
+    "logo": "https://image.tsports.com/images/mobile_logo/1709312916-1280.jpg",
+    "origin": "https://live-cdn.tsports.com",
+    "referrer": "https://live-cdn.tsports.com",
+    "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1709586438:KeyName=tsports-ed25519-01:Signature=VBbMxU4-NiICf_sgXwfj1gZa8Z5xPL5A2g9EIMPE4p5Owrfd5P2Rtd9dXre8q4BCF7aO0U98BQgohMMO8BcVDw",
+    "drmScheme": "",
+    "drmLicense": ""
+  }, {
+    "name": "T Sports Live",
+    "link": "https://live-cdn.tsports.com/live-01/index.m3u8",
+    "logo": "https://image.tsports.com/images/contents/thumbnail/691/mobile_logo_LIVE(1)_64e4dd8e16430.jpg",
+    "origin": "https://live-cdn.tsports.com",
+    "referrer": "https://live-cdn.tsports.com",
+    "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1709586438:KeyName=tsports-ed25519-01:Signature=VBbMxU4-NiICf_sgXwfj1gZa8Z5xPL5A2g9EIMPE4p5Owrfd5P2Rtd9dXre8q4BCF7aO0U98BQgohMMO8BcVDw",
+    "drmScheme": "",
+    "drmLicense": ""
+  }, { 
+"logo": "https://image.tsports.com/images/mobile_logo/1709312916-1280.jpg",
+"name": "toffe live", 
+"link": "https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8",
+"origin": "",
+"referer": "",
+userAgent": "", 
+"cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1711065708:KeyName=prod_live_events:Signature=GaKNY3xZ_B07hrAglO35cu9RnLLvnSRLMDpF4F9fxnV-C0VqcLaccfF6irS-ypfn2lC74WdljbN7ZPhtcwRuBQ",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, { 
+"logo": "",
+"name": "live2", 
+"link": "https://dai.fancode.com/primary/93983_english_hls_4837ta-di/1080p.m3u8",
+"origin": "",
+"referer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, { 
+"logo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",
+"name": "astro cricket", 
+"link": "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd",
+"origin": "",
+"referer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "clearkey", 
+"drmLicense": "03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c" 
+}, { 
+"logo": "",
+"name": "live match", 
+"link": "http://172.20.5.1/DAW47617/01857615511/70",
+"origin": "",
+"referer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, { 
+"logo": "",
+"name": "ddn live", 
+"link": "http://ddn.oncast.me:1934/dlive/sp16.stream/chunks.m3u8",
+"origin": "",
+"referer": "http://ddn.oncast.me/",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, { 
+"logo": "",
+"name": "jiocinema 4k", 
+"link": "https://prod-sports-eng-gm.jiocinema.com/hls/live/2100297/uhd_akamai_ctv_avc_eng_wpl_s1_m1050324/master.m3u8",
+"origin": "",
+"referer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}]
+
