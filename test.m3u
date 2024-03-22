@@ -31,7 +31,7 @@ userAgent": "",
 }, { 
 "logo": "",
 "name": "ipl bangla", 
-"link": "https://prod-sports-north.jiocinema.com:443/hls/live/2109774/hd_akamai_iosmob_avc_ben_ipl_s1_m1220324/master_1080p.m3u8",
+"link": "http://prod-sports-north-gm.jiocinema.com/hls/live/2109773/uhd_akamai_atv_avc_ben_ipl_s1_m1220324/master.m3u8",
 "origin": "",
 "referer": "",
 userAgent": "", 
