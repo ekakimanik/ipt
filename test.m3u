@@ -78,5 +78,25 @@ userAgent": "",
 "cookie": "",
 "drmScheme": "clearkey", 
 "drmLicense": "key" 
+}, { 
+"logo": "",
+"name": "jiocinema 4k", 
+"link": "https://prod-sports-eng.jiocinema.com:443/hls/live/2100298/uhd_akamai_atv_bkp_avc_eng_ipl_s2_m1230324/index.m3u8",
+"origin": "",
+"referer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
+}, { 
+"logo": "",
+"name": "jiocinema 4k", 
+"link": "https://prod-sports-eng.jiocinema.com:443/hls/live/2100298/uhd_akamai_atv_bkp_avc_eng_ipl_s2_m1230324/index.m3u8",
+"origin": "",
+"referer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "clearkey", 
+"drmLicense": "key" 
 }]
 
