@@ -1,6 +1,6 @@
 [{
     "name": "LIVE | Bangladesh vs Sri Lanka",
-    "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
+    "link": "https://live-cdn.tsports.com:443/live-02/index.m3u8",
     "logo": "https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png",
     "origin": "https://live-cdn.tsports.com",
     "referrer": "https://live-cdn.tsports.com",
