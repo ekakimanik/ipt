@@ -60,14 +60,14 @@ userAgent": "",
 "drmLicense": "03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c" 
 }, { 
 "logo": "",
-"name": "willow", 
-"link": "https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd",
+"name": "fancode", 
+"link": "https://dai.fancode.com/primary/99286_english_hls_5729adfreeta-no/index.m3u8",
 "origin": "",
 "referer": "",
 userAgent": "", 
 "cookie": "",
 "drmScheme": "clearkey", 
-"drmLicense": "6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc" 
+"drmLicense": "" 
 }, { 
 "logo": "",
 "name": "ddn live", 
