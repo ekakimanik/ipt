@@ -1,112 +1,19 @@
-[{
-    "name": "LIVE | IPL",
-    "link": "https://live-cdn.tsports.com:443/live-02/index.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png",
-    "origin": "https://live-cdn.tsports.com",
-    "referrer": "https://live-cdn.tsports.com",
-    "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1713698650:KeyName=tsports-ed25519-01:Signature=LRzh6sWeV45MSOEF5Uv6HDeeKyRe3hbPSpH5grNfhr7GoObROvgxMN8FGaN-G3LuK3mvZMIyVdM7YeMRRE7MDg",
-    "drmScheme": "",
-    "drmLicense": ""
-  },{
-    "name": "LIVE | Tsports2",
-    "link": "https://live-cdn.tsports.com:443/live-01/index.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/291605/logo/240x240/mobile_logo_183555001714457565.png",
-    "origin": "https://live-cdn.tsports.com",
-    "referrer": "https://live-cdn.tsports.com",
-    "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1713698650:KeyName=tsports-ed25519-01:Signature=LRzh6sWeV45MSOEF5Uv6HDeeKyRe3hbPSpH5grNfhr7GoObROvgxMN8FGaN-G3LuK3mvZMIyVdM7YeMRRE7MDg",
-    "drmScheme": "",
-    "drmLicense": ""
-  }, {
-    "name": "ipl starsports 1",
-    "link": "http://172.20.5.1/DAW47617/01857615511/150",
-    "logo": "https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png",
-    "origin": "",
-    "referrer": "",
-    "userAgent": "",
-    "cookie": "",
-    "drmScheme": "",
-    "drmLicense": ""
-  }, { 
-"logo": "https://image.tsports.com/images/mobile_logo/1709312916-1280.jpg",
-"name": "toffe live", 
-"link": "https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8",
-"origin": "",
-"referer": "",
-userAgent": "", 
-"cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1711065708:KeyName=prod_live_events:Signature=GaKNY3xZ_B07hrAglO35cu9RnLLvnSRLMDpF4F9fxnV-C0VqcLaccfF6irS-ypfn2lC74WdljbN7ZPhtcwRuBQ",
-"drmScheme": "clearkey", 
-"drmLicense": "key" 
-}, { 
-"logo": "",
-"name": "ipl bangla 4k", 
-"link": "https://prod-sports-north.jiocinema.com/out/v1/9035c52af31f45f7a14223f77b70d84d/master.m3u8",
-"origin": "",
-"referer": "",
-userAgent": "", 
-"cookie": "",
-"drmScheme": "clearkey", 
-"drmLicense": "key" 
-}, { 
-"logo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",
-"name": "astro cricket", 
-"link": "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd",
-"origin": "",
-"referer": "",
-userAgent": "", 
-"cookie": "",
-"drmScheme": "clearkey", 
-"drmLicense": "03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c" 
-}, { 
-"logo": "",
-"name": "fancode", 
-"link": "https://dai.fancode.com/primary/99287_english_hls_6709ta-di/index.m3u8",
-"origin": "",
-"referer": "",
-userAgent": "", 
-"cookie": "",
-"drmScheme": "clearkey", 
-"drmLicense": "" 
-}, { 
-"logo": "",
-"name": "ddn live", 
-"link": "http://ddn.oncast.me:1934/dlive/sp16.stream/chunks.m3u8",
-"origin": "",
-"referer": "http://ddn.oncast.me/",
-userAgent": "", 
-"cookie": "",
-"drmScheme": "clearkey", 
-"drmLicense": "key" 
-}, { 
-"logo": "",
-"name": "jiocinema 4k", 
-"link": "http://prod-sports-eng-cf.jiocinema.com/hls/live/2100298/uhd_akamai_atv_bkp_avc_eng_ipl_s1_m1160424/master.m3u8",
-"origin": "",
-"referer": "",
-userAgent": "", 
-"cookie": "",
-"drmScheme": "clearkey", 
-"drmLicense": "key" 
-}, { 
-"logo": "",
-"name": "english permanent", 
-"link": "https://prod-ent-live-gm.jiocinema.com/out/v1/272eae19c0fb4d50a8efa0261ed53cdd/master.m3u8",
-"origin": "",
-"referer": "",
-userAgent": "", 
-"cookie": "",
-"drmScheme": "clearkey", 
-"drmLicense": "key" 
-}, { 
-"logo": "",
-"name": "jiocinema bangla permanent", 
-"link": "https://prod-ent-live-gm.jiocinema.com/out/v1/49bf9a5c837243c09d72043b7fa2a530/master.m3u8",
-"origin": "",
-"referer": "",
-userAgent": "", 
-"cookie": "",
-"drmScheme": "clearkey", 
-"drmLicense": "key" 
-}]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png", astro cricket
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a521d7d94563c18155c433f85e3c2ed3:29cb9bc0170332b0ffab44bbd2d09910
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/130.png", Star Sports HD 1
+https://bpcdn.dialog.lk/bpk-tv/Ch120/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c6db28d2f3a024669ecfcefb1d99a39:cba6f642dac4e2489680631e4b7a0af2
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/133.png", Star S Select HD 1
+https://bpcdn.dialog.lk/bpk-tv/Ch121/output/index.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc0ce9325bfb912a4addf4404cd10791:37aab4a5afa952b9eac0c8ec7dcb4f2d
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/132.png", Star S Select HD 2
+https://bpcdn.dialog.lk/bpk-tv/Ch122/output/index.mpd 
