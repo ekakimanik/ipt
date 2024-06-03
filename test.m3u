@@ -17,3 +17,25 @@ https://bpcdn.dialog.lk/bpk-tv/Ch121/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=cc0ce9325bfb912a4addf4404cd10791:37aab4a5afa952b9eac0c8ec7dcb4f2d
 #EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/132.png", Star S Select HD 2
 https://bpcdn.dialog.lk/bpk-tv/Ch122/output/index.mpd 
+
+[{ 
+"logo": "",
+"name": "live match", 
+"link": "http://ddn.oncast.me:1934/dlive/sp16.stream/chunks.m3u8|referer=http://ddn.oncast.me/",
+"origin": "",
+"referrer": "http://ddn.oncast.me/",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "", 
+"drmLicense": "" 
+}, {
+"logo": "",
+"name": "live match 2", 
+"link": "http://ddn.oncast.me:1934/dlive/ekattor.stream/chunks.m3u8|referer=http://ddn.oncast.me/",
+"origin": "",
+"referrer": "http://ddn.oncast.me/",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "", 
+"drmLicense": "" 
+}]
