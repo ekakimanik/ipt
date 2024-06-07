@@ -19,9 +19,9 @@ https://bpcdn.dialog.lk/bpk-tv/Ch121/output/index.mpd
 https://bpcdn.dialog.lk/bpk-tv/Ch122/output/index.mpd 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a05a54bf469c6040a28847700082ca65:4344373c32a573e73a42eeab936a98a9
-#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/130.png", Criclife life 1
-https://criclive1.starzplayarabia.com/out/v1/1adbc63744e44594a273eb48ec027b65/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=d1badeadb11f16bbd0ad7d47914d939e:bd52d185d3537c4c1759db6d66f90f31
+#EXTINF:-1 tvg-logo="https://i.pcmag.com/imagery/reviews/02dIsBiVpmVTMeXkrKxWy0W-13.fit_scale.size_760x427.v1582749138.png", Prime video 
+https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgcrfjcgia/out/v1/7296f026409c4e9ba8844a238628f9ad/cenc.mpd
 
 [{ 
 "logo": "",
