@@ -28,6 +28,11 @@ https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live
 #EXTINF:-1 tvg-logo="https://i.pcmag.com/imagery/reviews/02dIsBiVpmVTMeXkrKxWy0W-13.fit_scale.size_760x427.v1582749138.png", Prime video 2
 https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dmmqe7ssji/out/v1/3775f3d149f34a7a81d8cd7d58118e40/cenc.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/440px-UEFA_Euro_2024_Logo.svg.png", EURO 2024
+https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
+
 [{ 
 "logo": "",
 "name": "live match", 
