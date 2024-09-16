@@ -30,8 +30,9 @@ https://linear027-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/L
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f1da399325247eca6acdd7bafb95fa2:41f234fb88590af3b0d224111a61bf71
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/1280px-UEFA_Euro_2024_Logo.svg.png", ad sport
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GW5rg2p/20240817-171319.png", astro test
 https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+
 [{ 
 "logo": "",
 "name": "live match", 
