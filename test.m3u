@@ -29,9 +29,9 @@ https://linear015-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/L
 https://linear027-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsfootball)/manifest_720.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f88a4bd31ed8999cc56a843690635970:d481dd51e34364884356b61ee9a28d1c
+#KODIPROP:inputstream.adaptive.license_key=8f1da399325247eca6acdd7bafb95fa2:41f234fb88590af3b0d224111a61bf71
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/1280px-UEFA_Euro_2024_Logo.svg.png", ad sport
-https://adasia1.starzplayarabia.com/out/v1/3c0cb95505b14665996b96a9abf5f18c/index.mpd
+https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 [{ 
 "logo": "",
 "name": "live match", 
