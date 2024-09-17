@@ -29,10 +29,9 @@ https://linear015-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/L
 https://linear027-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsfootball)/manifest_720.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8f1da399325247eca6acdd7bafb95fa2:41f234fb88590af3b0d224111a61bf71
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GW5rg2p/20240817-171319.png", astro test
-https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=cf671610fa53cc56b07b1d235169fc81:50ac62719a1205fd08c01e368e27e3d4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GW5rg2p/20240817-171319.png", starzplay
+https://criclive2.starzplayarabia.com/out/v1/1b232653e5254150a60a577cc8db682f/index.mpd
 [{ 
 "logo": "",
 "name": "live match", 
