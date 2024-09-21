@@ -32,6 +32,12 @@ https://linear027-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/L
 #KODIPROP:inputstream.adaptive.license_key=cf671610fa53cc56b07b1d235169fc81:50ac62719a1205fd08c01e368e27e3d4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GW5rg2p/20240817-171319.png", starzplay
 https://criclive2.starzplayarabia.com/out/v1/1b232653e5254150a60a577cc8db682f/index.mpd
+
+KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=112fc5efca96a3cd7ee42ac46c733550:227eaef1366fa61610a467bd87d10b13
+#EXTINF:-1 tvg-logo="", main event 4k
+https://linear408-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_2160_120/Live/channel(sportsf1uhd)/manifest_2160-atmos-120.mpd
+
 [{ 
 "logo": "",
 "name": "live match", 
