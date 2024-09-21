@@ -33,9 +33,9 @@ https://linear027-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/L
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GW5rg2p/20240817-171319.png", starzplay
 https://criclive2.starzplayarabia.com/out/v1/1b232653e5254150a60a577cc8db682f/index.mpd
 
-KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="812" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jBQSPlDeHhyJiD2tm6ZlfqFYPAQswbIu6A&s" group-title="Sky uhd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jBQSPlDeHhyJiD2tm6ZlfqFYPAQswbIu6A&s,Sky Sports Main Event UHD 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "In6u8TZvphYQpGe9h9ELEw", "kid": "ES/F78qWo81+5CrEbHM1UA"}, {"kty": "oct", "k": "TmxvwA301e1eI+bXJ+siew", "kid": "ES9scQrXvsoGkLyrMXN49Q"}], "type": "temporary"}
-#EXTINF:-1 tvg-logo="", 4k test
 https://linear408-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_2160_120/Live/channel(sportsmaineventuhd)/manifest_2160-atmos-120.mpd
 
 [{ 
