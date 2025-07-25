@@ -78,10 +78,9 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
 https://ucdn.starhubgo.com/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=000546476256963bd054ded3b6ae5800:1e497068bcc078fdb2f4296bc400ca2b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7gSb721/20240817-171339.png", sky main event
-https://linear018-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd 
-
+#KODIPROP:inputstream.adaptive.license_key=1116b327df439f151e6de79b922d0b51:1e9050e6819728885dd9ab5752bc1fe5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7gSb721/20240817-171339.png", sky cricket
+https://g006-lin-gb-cmaf-prd-xa.pcdn05.cssott02.com/nowgblin1/Content/CMAF_CTR_H1/Live/channel(skysportscricket)/master.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00052237a76cdb0eb5fcbccf4c16f658:4e42c0a0ecf6e534426fbb21525c1911
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5YyNvJQ/20240817-171330.png", Sky sports mix
