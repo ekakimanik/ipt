@@ -1,7 +1,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"IgNLw8M0QuWw3P1eUYCRBQ","k":"psBcxG/e/u6G1UNfFKnA+Q"},{"kty":"oct","kid":"/9HmlvmrRUyNENnIgMNg6Q","k":"ALIson85Z50q3W5AXxgE0A"}],"type":"temporary"}
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png", astro cricket
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
+https://l02.dp.sooka.my/2504/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTM5Mjg3OTMsImlzcyI6IlZSIiwiZXhwIjoxNzU0MDAxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjAxNTNhYmMtYzBlYi00NThjLTk4N2UtN2Q5NGIzZjNiNjkyIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjI1MDQifQ.QNythFq2Vv0hP2-IL9HwaCnXzFJAGGC2TJRNvsDF8BM
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/zRnqJY1/hub-sports.png" group-title="Hub Sports Singapore",Hub Sports 1 HD ðŸ‡¸ðŸ‡¬
 #KODIPROP:inputstream.adaptive.license_type=clearkey
