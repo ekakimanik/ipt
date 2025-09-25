@@ -1,3 +1,13 @@
+#EXTM3U
+#EXTINF:0,Ptv Sports
+http://147.93.154.65/PtvSports/index.m3u8
+#EXTINF:0,T-SPORTS
+http://147.93.154.65/TSports/index.m3u8
+#EXTINF:0,Ten sports
+http://147.93.154.65/TenSports/index.m3u8
+#EXTINF:0,a sports
+http://147.93.154.65/ASports/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"IgNLw8M0QuWw3P1eUYCRBQ","k":"psBcxG/e/u6G1UNfFKnA+Q"},{"kty":"oct","kid":"/9HmlvmrRUyNENnIgMNg6Q","k":"ALIson85Z50q3W5AXxgE0A"}],"type":"temporary"}
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png", astro cricket
