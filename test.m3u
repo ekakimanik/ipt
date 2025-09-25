@@ -15,6 +15,10 @@ http://147.93.154.65/Fox501/index.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png", astro cricket
 https://l02.dp.sooka.my/2504/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTM5Mjg3OTMsImlzcyI6IlZSIiwiZXhwIjoxNzU0MDAxMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjAxNTNhYmMtYzBlYi00NThjLTk4N2UtN2Q5NGIzZjNiNjkyIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjI1MDQifQ.QNythFq2Vv0hP2-IL9HwaCnXzFJAGGC2TJRNvsDF8BM
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj" group-title="fox sports",fox cricket 501
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2ba14ee5ef4440d8e56a8bb5403117d:b77a334fd7aff9c9960ca7785a20ea66
+https://fxtlgrp-live1-814bffb9b389f652.akamaized.net/out/v1/c1566607e84d4dd0bc7e53bc26943d14/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/zRnqJY1/hub-sports.png" group-title="Hub Sports Singapore",Hub Sports 1 HD ðŸ‡¸ðŸ‡¬
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
