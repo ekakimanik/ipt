@@ -7,6 +7,8 @@ http://147.93.154.65/TSports/index.m3u8
 http://147.93.154.65/TenSports/index.m3u8
 #EXTINF:0,a sports
 http://147.93.154.65/ASports/index.m3u8
+#EXTINF:0,fox sports
+http://147.93.154.65/Fox501/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"IgNLw8M0QuWw3P1eUYCRBQ","k":"psBcxG/e/u6G1UNfFKnA+Q"},{"kty":"oct","kid":"/9HmlvmrRUyNENnIgMNg6Q","k":"ALIson85Z50q3W5AXxgE0A"}],"type":"temporary"}
