@@ -2,7 +2,7 @@
 #EXTINF:0,Ptv Sports
 http://147.93.154.65/PtvSports/index.m3u8
 #EXTINF:0,T-SPORTS
-http://100.10.20.10:8080/TSports/index.m3u8?token=1a7ab065508643ecc5896f9f9213fe6a3bcfa283-dfff7e3ab6fac0c1e2411a3b76139246-1768895684-1768884884
+http://100.10.20.10:8080/TSports/index.m3u8?token=f63c4885b9654971df8c415e4803b35beda5ffd5-214fc25275817338bbf982bc5edd751b-1768906304-1768895504
 #EXTINF:0,Ten sports
 http://147.93.154.65/TenSports/index.m3u8
 #EXTINF:0,a sports
