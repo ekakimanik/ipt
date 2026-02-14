@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,Ptv Sports
-http://147.93.154.65/PtvSports/index.m3u8
+http://103.89.248.130:8082/PTV/index.m3u8
 #EXTINF:0,T-SPORTS
 http://103.89.248.130:8082/2LIVE/index.m3u8
 #EXTINF:0,T-SPORTS 2
