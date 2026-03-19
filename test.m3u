@@ -108,43 +108,41 @@ https://g006-lin-gb-cmaf-prd-xa.pcdn05.cssott02.com/nowgblin1/Content/CMAF_CTR_H
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5YyNvJQ/20240817-171330.png", Sky sports mix
 https://linear034-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmix)/manifest_720.mpd 
 
+#EXTINF:-1 tvg-id="ESPN" group-title="Sports",ESPN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00058832b1c058c3de8b5d118cc775d4:721345f25729d236d6bb317fce797b77
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9vvV2fC/20240817-171405.png", Sky sports premier league
-https://linear015-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportspremierleague)/manifest_720.mpd
+#KODIPROP:inputstream.adaptive.license_key=8b55a3ba068f882f49b36d216f29506f:77f418bbcfc73739ebca9c52321472d3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://cdn02.gigared.com.ar/live/eds/ESPN/sa_live_dash/ESPN.mpd
 
+#EXTINF:-1 tvg-id="ESPN2" group-title="Sports",ESPN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005c37ab85893a379c1e1e5ed60fcf0:b60a9aa6c55026adfc3f47136ce64924
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GW5rg2p/20240817-171319.png", Sky sports football
-https://linear027-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsfootball)/manifest_720.mpd
+#KODIPROP:inputstream.adaptive.license_key=02819f905f4e126d492693e44c688b82:a12adec960cd1e33ad3b8ddbf0dd22b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://cdn02.gigared.com.ar/live/eds/ESPN2/sa_live_dash/ESPN2.mpd
 
-#EXTINF:-1 tvg-id="TNTSports1" tvg-name="TNT Sports 1" group-title="Aneka | Olympic Games Milano Cortina 2026" group-logo="https://i.postimg.cc/59Zv0N2m/2026-Winter-Olympics-logo.png" tvg-logo="https://i.postimg.cc/SRsHLcGW/22832-removebg-preview.png" ch-number="601",TNT Sports 1
+#EXTINF:-1 tvg-id="ESPN3" group-title="Sports",ESPN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ad0c72e30648501377425a62a2bf095c:2cfbc73f423203a9fc8a1d983ec4e8bb
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.0.0 Mobile Safari/537.36
+https://cdn02.gigared.com.ar/live/eds/ESPN3/sa_live_dash/ESPN3.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Aneka | Olympic Games Milano Cortina 2026" group-logo="https://i.postimg.cc/59Zv0N2m/2026-Winter-Olympics-logo.png" tvg-logo="https://i.postimg.cc/prW5sLhR/22855-removebg-preview.png",TNT Sports 2
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Aneka | Olympic Games Milano Cortina 2026" group-logo="https://i.postimg.cc/59Zv0N2m/2026-Winter-Olympics-logo.png" tvg-logo="https://i.postimg.cc/zDKxMtyK/22853-removebg-preview.png",TNT Sports 3
-https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Aneka | Olympic Games Milano Cortina 2026" group-logo="https://i.postimg.cc/59Zv0N2m/2026-Winter-Olympics-logo.png" tvg-logo="https://i.postimg.cc/K8Xsj6dy/22834-removebg-preview.png" ch-number="602",TNT Sports 4
+#EXTINF:-1 tvg-id="ESPN4" group-title="Sports",ESPN 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ecafef3b8979c737d05ea191a02b7617:f46cd12052b0da221a3a178e2bde0162
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/53736
+https://cdn02.gigared.com.ar/live/eds/ESPN4/sa_live_dash/ESPN4.mpd
 
+#EXTINF:-1 tvg-id="ESPNP" group-title="Sports",ESPN Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dca96877c202470bdad9839bea525c0a:d651871131d4b26f0095bcb9771b8f2f
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://cdn03.gigared.com.ar/live/eds/ESPN_Premium/sa_live_dash/ESPN_Premium.mpd
 
+#EXTINF:-1 tvg-id="TNT" group-title="Sports",TNT Sports Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f26eb059fb0854f4d4218c895d7ae803:ffcb3fd4bd5657889215be4cb6275d1b
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://cdn03.gigared.com.ar/live/eds/TNT_Sports_Premium/sa_live_dash/TNT_Sports_Premium.mpd
 
 
 
