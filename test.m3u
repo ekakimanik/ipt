@@ -62,10 +62,7 @@ https://ucdn.starhubgo.com/bpk-tv/HubSports7/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=760126fc9c2640f8b32e647c0f43fa09:f139ce2dd6ebe611388fa8e175e99baf
 https://ucdn.starhubgo.com/bpk-tv/HubSports8/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.vecteezy.com/free-png/football" group-title="german",fussball 4k¬
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="bein sports Singapore",beIN Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -103,77 +100,56 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd
 #KODIPROP:inputstream.adaptive.license_key=4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8
 https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
 
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ProSiebenSat1UHD.de" tvg-name="ProSiebenSat.1 UHD" tvg-logo="https://raw.githubusercontent.com/Fazzani/TV-Logos/master/Germany/ProSiebenSat.1_UHD.png" group-title="MagentaTV UHD",ProSiebenSat.1 UHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
-#EXTINF:-1 tvg-logo="https://ia904702.us.archive.org/33/items/sky-sports-cricket-2020/Sky_Sports_Cricket_2020.png", hub sports Cricket
-https://ucdn.starhubgo.com/bpk-tv/HubSports4HDnew/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=1918c1b96afa3f747e6c376fda8e140e:e09fc7553946e5ad68e0162715e96f71
+https://svc45.main.sl.t-online.de/bpk-tv/KID00914_ProSiebenSat1UHD_uhd/DASH/index.mpd
 
+#EXTINF:-1 tvg-id="RTLUHD.de" tvg-name="RTL UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RTL_UHD_Logo_2021.svg" group-title="MagentaTV UHD",RTL UHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1116b327df439f151e6de79b922d0b51:1e9050e6819728885dd9ab5752bc1fe5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7gSb721/20240817-171339.png", sky cricket
-https://g006-lin-gb-cmaf-prd-xa.pcdn05.cssott02.com/nowgblin1/Content/CMAF_CTR_H1/Live/channel(skysportscricket)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=17286ed7f8585665d9ac6d8a007db83c:c1583491f2c49fc36ed90ea42fb8ccc0
+https://svc45.main.sl.t-online.de/bpk-tv/KID00860_RTLUHD_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="Travelxp4K.de" tvg-name="Travelxp 4K UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Travelxp_HD_logo.png" group-title="MagentaTV UHD",Travelxp 4K UHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00052237a76cdb0eb5fcbccf4c16f658:4e42c0a0ecf6e534426fbb21525c1911
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5YyNvJQ/20240817-171330.png", Sky sports mix
-https://linear034-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmix)/manifest_720.mpd 
+#KODIPROP:inputstream.adaptive.license_key=1f5e28ed5473effa0abf80c7a5dd8d62:5d1d93cb5c7747933dabc3cff1141cbe
+https://svc45.main.sl.t-online.de/bpk-tv/KID00857_Travelxp4K_uhd/DASH/index.mpd
 
-#EXTINF:-1 tvg-id="ESPN" group-title="Sports",ESPN
+#EXTINF:-1 tvg-id="FussballTV1UHD.de" tvg-name="FUSSBALL.TV 1 UHD" tvg-logo="https://raw.githubusercontent.com/Fazzani/TV-Logos/master/Germany/Fussball_TV_1_UHD.png" group-title="MagentaTV UHD",FUSSBALL.TV 1 UHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b55a3ba068f882f49b36d216f29506f:77f418bbcfc73739ebca9c52321472d3
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/ESPN/sa_live_dash/ESPN.mpd
+#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
 
-#EXTINF:-1 tvg-id="ESPN2" group-title="Sports",ESPN 2
+#EXTINF:-1 tvg-id="FussballTV2UHD.de" tvg-name="FUSSBALL.TV 2 UHD" tvg-logo="https://raw.githubusercontent.com/Fazzani/TV-Logos/master/Germany/Fussball_TV_2_UHD.png" group-title="MagentaTV UHD",FUSSBALL.TV 2 UHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=02819f905f4e126d492693e44c688b82:a12adec960cd1e33ad3b8ddbf0dd22b9
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/ESPN2/sa_live_dash/ESPN2.mpd
+#KODIPROP:inputstream.adaptive.license_key=1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
+https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
 
-#EXTINF:-1 tvg-id="ESPN3" group-title="Sports",ESPN 3
+#EXTINF:-1 tvg-id="FussballTV3UHD.de" tvg-name="FUSSBALL.TV 3 UHD" tvg-logo="https://raw.githubusercontent.com/Fazzani/TV-Logos/master/Germany/Fussball_TV_3_UHD.png" group-title="MagentaTV UHD",FUSSBALL.TV 3 UHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad0c72e30648501377425a62a2bf095c:2cfbc73f423203a9fc8a1d983ec4e8bb
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn02.gigared.com.ar/live/eds/ESPN3/sa_live_dash/ESPN3.mpd
+#KODIPROP:inputstream.adaptive.license_key=1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c
+https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
 
-#EXTINF:-1 tvg-id="ESPN4" group-title="Sports",ESPN 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecafef3b8979c737d05ea191a02b7617:f46cd12052b0da221a3a178e2bde0162
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/53736
-https://cdn02.gigared.com.ar/live/eds/ESPN4/sa_live_dash/ESPN4.mpd
+#EXTM3U
 
-#EXTINF:-1 tvg-id="ESPNP" group-title="Sports",ESPN Premium
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dca96877c202470bdad9839bea525c0a:d651871131d4b26f0095bcb9771b8f2f
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/ESPN_Premium/sa_live_dash/ESPN_Premium.mpd
-
-#EXTINF:-1 tvg-id="TNT" group-title="Sports",TNT Sports Premium
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f26eb059fb0854f4d4218c895d7ae803:ffcb3fd4bd5657889215be4cb6275d1b
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdn03.gigared.com.ar/live/eds/TNT_Sports_Premium/sa_live_dash/TNT_Sports_Premium.mpd
-
-
-
-
-[{ 
-"logo": "",
-"name": "live match", 
-"link": "http://ddn.oncast.me:1934/dlive/sp16.stream/chunks.m3u8|referer=http://ddn.oncast.me/",
-"origin": "",
-"referrer": "http://ddn.oncast.me/",
-userAgent": "", 
-"cookie": "",
-"drmScheme": "", 
-"drmLicense": "" 
-}, {
-"logo": "",
-"name": "live match 2", 
-"link": "http://ddn.oncast.me:1934/dlive/ekattor.stream/chunks.m3u8|referer=http://ddn.oncast.me/",
-"origin": "",
-"referrer": "http://ddn.oncast.me/",
-userAgent": "", 
-"cookie": "",
-"drmScheme": "", 
-"drmLicense": "" 
-}]
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TRT_1_logo_%282021%29.svg" group-title="OQEE",TRT 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DrTM3f05yeWkoLWWi0R6sg","kid":"5PEioIUI0AaR3dACdf7_NA"},{"kty":"oct","k":"oeUf_xEPh4RJEhmZjER6sg","kid":"AzMHoUek01mZEJp5sqo-jg"},{"kty":"oct","k":"iTnQBFjniDcwzdYLuuOR8g","kid":"5gQv5G7NGyoVwne6Je-3ug"},{"kty":"oct","k":"xULeHB-35kuI_nLhS2ttxA","kid":"CTbZFTdu_NgTzkBChgHM0Q"}],"type":"temporary"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/490/1/live.mpd
