@@ -181,9 +181,138 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c
 https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 90
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9592bace945e0abd16edd5c731b1d55f:5393eac446380bea86b8ab6ffaaf21fe
+https://live-atv-cdn.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-90-BR-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 91
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6dca28e60e7ba452a5c14d7118bd044d:3a2bca72940d073c3fc8f0913a416fcb
+https://live-atv-cdn.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-91-BR-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 92
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85749989ff466e48dd8916189edbd67:8bfc5797d3c1e727690223c8a3bda056
+https://live-atv-cdn.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-92-BR-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 93
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bfec037a8e842d8f37e45f79660c3deb:c5498e5865784e2b32fb67d704074682
+https://live-atv-cdn.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-93-BR-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 94
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1055a56630932e96836cd761b14133e:7c2e0ead2a7a3b623ec624b9bda3dbd8
+https://live-atv-cdn.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-94-BR-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 95
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db640f41df5b7ee7dc753f39e38140b5:d26223d33645262a005bb570a1a7a024
+https://live-atv-cdn.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-95-BR-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 90
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33de7dd485a32d42d2addcaea99b0ee7:bce6267cc2328b52a85776d0e85b257e
+https://live-atv-cdn.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-90-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 91
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abd11aa3519cffafcfed11413af829a0:d84eb3a71e76d0740aa8ceea4ac22602
+https://live-atv-cdn.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-91-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 92
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f7123a82732cea530ff8f1f77f09220d:956e22f0f22da19da8751966e7ad0ff8
+https://live-atv-cdn.izzigo.tv/12/out/u/dash/VIX-MUNDIAL-92-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 93
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee5d5de81caa5d3feee7f9663be8e2e1:6656110ef2c742a99b641b63db4822d3
+https://live-atv-cdn.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-93-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 94
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12d1e1d3fef7d41ab9a8c08604e352fc:c1eb8ff8651f27ee5fa6c0a65ae0d05b
+https://live-atv-cdn.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-94-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 95
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1b98397580a6fd6a13492e8ac39944f:89790549a54e6087c8ed5b0b19aebf0b
+https://live-atv-cdn.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-95-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 90  H265
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b922efd4893a6e4b05db2f0240a4a401:d9e6cfb8a7d28c282630c353cee01835
+https://live1-ott.izzigo.tv/6/out/u/dash/VIX-MUNDIAL-90-HD-H265/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 91 H265
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=845afc4f7a5ac1b60d0962851fcd40ad:05b5e032725a57b16ec2bd4fe67ec6f3
+https://live1-ott.izzigo.tv/6/out/u/dash/VIX-MUNDIAL-91-HD-H265/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 92 H265
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ecf2de72f3d8c80a4355abe8e0f2d1b:4ab47cbccf1ea08fa3fd82970795aad5
+https://live1-ott.izzigo.tv/7/out/u/dash/VIX-MUNDIAL-92-HD-H265/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 93 H265
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=696435bb1f9b9387866e4d01ab969779:af4bbc01b4e6c0a14279e11451a3e474
+https://live1-ott.izzigo.tv/7/out/u/dash/VIX-MUNDIAL-93-HD-H265/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 94 H265
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78535ece7acc58ad362346c7c2fa4cf5:9042221339d28d54428a3e7d0c34bd65
+https://live1-ott.izzigo.tv/8/out/u/dash/VIX-MUNDIAL-94-HD-H265/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 95 H265
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bfbf27d8a79f7734f720c3af6a63f5fe:d5fcf98fcee1bbdd44104f188d088335
+https://live1-ott.izzigo.tv/8/out/u/dash/VIX-MUNDIAL-95-HD-H265/default.mpd
+
+#EXTINF:-1 group-title="Fusstball tv",Fusstball tv 4k
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4f558eae1b005126b2ac6e9eb1a7849e": "17aea325d91b5e66f06a8c574f2f0b03", "b73f76658d1f5ce38420f380421bafe3": "9ebdbf32f90b546f66603104b2ac3c8a", "e1f8fc6898fc5bf7a00b5609af23fee0": "98b7133ee006d9fae111ec0cb366641c", "e511fb81360c5f14b681605d1de52046": "ec72f335d0e436ac7dc1d936aea1144a"}
+https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
+
+#EXTINF:-1 group-title="izzi",Canal 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2764ddb50fbcdfa640e19874116dd529:ab1e5cc276f81696e41131392290585d
+https://live-ott.izzigo.tv/7/out/u/dash/CANAL-5-HD-H265/default.mpd
+
+#EXTINF:-1 group-title="amazon prime mexico",Fox sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
+http://a173aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/suekwxntzd/out/v1/c67db31de6b447a48a70e997c33eb71f/cenc.mpd?aws.sessionId=604b84a9-6b95-405e-ab91-4df95a9c66fe&encoding=segmentBase
+
+
 #EXTINF:-1 tvg-id="PrimeVideo.Live" tvg-name="Prime Video Live" group-title="Amazon Live",fifa live
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://live-pv-ta.amazon.fastly-edge.com/pdx-nitro/live/clients/dash/enc/ifz2pnwgbv/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
+
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/qmjlikytt2/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
