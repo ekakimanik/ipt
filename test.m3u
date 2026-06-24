@@ -62,7 +62,11 @@ https://ucdn.starhubgo.com/bpk-tv/HubSports7/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=760126fc9c2640f8b32e647c0f43fa09:f139ce2dd6ebe611388fa8e175e99baf
 https://ucdn.starhubgo.com/bpk-tv/HubSports8/output/manifest.mpd
 
-
+#EXTINF:-1 group-title="Sporta",Sporta Belgium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460
+https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="bein sports Singapore",beIN Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
