@@ -86,6 +86,13 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 #KODIPROP:inputstream.adaptive.license_key={"b346d39ea28f79dcf8b4a1de35bc4c3a": "21275742c1da5f3ace30bb3a6033005b", "b86d79f122e8955d39269e6a3d2e4ed0": "bb34dae1b1b4754fc806e42779f22b1e", "9502ee217a75900cf2d7608b1a186a03": "fcd6e00f9ecf85f3b4ea91471c9ef02e", "0f2dac86df555a5a7576dadcf5862fda": "490f20b0316313d2025264b700ad7e1f"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
 
+#EXTINF:-1 group-title="bein",trt 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e4f022a08508d006918dd90275feff34": "0eb4ccdf0d39c9e5a4a0b596ab5751a9", "033307a147a4d35a99109a79b2aa3e8c": "a1e51fff110f8784491219998c447ab2", "e6042fe46ecd1b2a15c2771a25fbb7ba": "8939d00458e7883730cdd60ba0e391f2", "0936d915376efcd813ce40428601cc31": "c542de1c1fb7e64b48fe72e14b6b6dc4"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/490/1/live.mpd
+
+
 
 #EXTINF:-1 group-title="Sporta",Sporta Belgium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
