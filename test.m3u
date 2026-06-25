@@ -65,7 +65,7 @@ https://ucdn.starhubgo.com/bpk-tv/HubSports8/output/manifest.mpd
 #EXTINF:-1 group-title="bein",bein max 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"6ca2f2c822444ff76d9570741dec7b2b": "9fc3d71ab30e8d33f09ee29e5e453608", "3cf686dc4246f19bc4419c54da0f90bc": "b40f599266c8a262ccf4a384dadce08a", "9d8b1b819cfdcff845625b86cc4968f3": "480b03fe4476bc187c6a9d43ba85b9db", "3acea01244785a6363fc04b25d696392": "f0b8f84dbd93407af6ab0b41fc774249", "b6362975ca29d0685b7cac721b6faa26": "da04d180e9028af27482b6a37c81e020"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"n8PXGrMOjTPwnuKeXkU2CA","kid":"bKLyyCJET/dtlXB0Hex7Kw"},{"kty":"oct","k":"tA9ZkmbIomLM9KOE2t3gig","kid":"PPaG3EJG8ZvEQZxU2g+QvA"},{"kty":"oct","k":"SAsD/kR2vBh8ap1DuoL52w","kid":"nYsbgZz9z/hFYluGzElo8w"},{"kty":"oct","k":"8Lj4Tb2TQH2mqwtB/HdCSQ","kid":"Os6gEkR4WmNj/ASyXWljkg"},{"kty":"oct","k":"2gTRgOkCivJ0grajfIHgIA","kid":"tjYpdcop0GhbfKxyG2+qJg"}],"type":"temporary"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
 
 #EXTINF:-1 group-title="bein",bein max 2
