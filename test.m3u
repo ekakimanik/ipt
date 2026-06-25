@@ -71,25 +71,25 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
 #EXTINF:-1 group-title="bein",bein max 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f81df5cf72bd43c3da84d04dc8691fcb": "4a60e4e009560c40766a0fa38770ef4e", "85ac9362e89354ef5341fe4dbee0dd6a": "e556276599c55bdee169f39eab8e56bc", "7a62a516c5d980553f497c6bfc469b19": "a0eeb97b4d14d6bb7a5c39755dd7c41c", "6c976caa628fde89aacedbd47059967e": "0d1e54565950c1e2f58d45c561a47187", "71fcdcfd58c608662db317fcf4411c19": "eaf76e97b969a7d124a720a109acda61"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SmDk4AlWDEB2ag+zh3DvTg","kid":"+B31z3K9Q8PahNBNyGkfyw"},{"kty":"oct","k":"5VYnZZnFW97hafOeq45WvA","kid":"hayTYuiTVO9TQf5NvuDdYg"},{"kty":"oct","k":"oO65e00U1rt6XDl1XdfEHA","kid":"emKlFsXZgFU/SXxr/EabGQ"},{"kty":"oct","k":"DR5UVllQweL1jUXFYaRxhw","kid":"bJdsqmKP3omqztvUcFmWfg"},{"kty":"oct","k":"6vdul7lpp9EkpyChCazatQ","kid":"cfzc/VjGCGYtsxf89EEcGQ"}],"type":"temporary"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
 
 #EXTINF:-1 group-title="bein",bein max 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"92e8cc9527c7f56a10777278cb801027": "4ce3f3e2234f00b21ba77006f197832a", "441100b7de65d7c582a9c71140e46f79": "ef37dadc14bdade17224ef4bc9f87ce6", "b4023d3a71316ed3cd06af7e43988d31": "91a96d592dd6e946b0f0074d15ac1168", "4281ee112555097325058cb7355035b4": "1a88899547f7fd4a5c22ee8150d89208", "43faba2da98eeeeb42481dca873d3460": "f8b58939398e5a5574c18408d304d44e"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TOPzoiNPALIbp3AG8ZeDKg","kid":"kujMlSfH9WoQd3J4y4AQJw"},{"kty":"oct","k":"7zfa3BS9reFyJO9Lyfh85g","kid":"RBEEt95l18WCqccRQORveQ"},{"kty":"oct","k":"kamtWS3W6Uaw8AdNFawRaA","kid":"tAI9OnExbtPNBq9+Q5iNMQ"},{"kty":"oct","k":"GoiJlUf3/UpcIu6BUNiSCA","kid":"QoHuESVVCXMlBYy3NVA1tA"},{"kty":"oct","k":"+LWJOTmOWlV0wYQI0wTUTg","kid":"Q/q6LamO7utCSB3Khz00YA"}],"type":"temporary"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 
 #EXTINF:-1 group-title="bein",bein max 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b346d39ea28f79dcf8b4a1de35bc4c3a": "21275742c1da5f3ace30bb3a6033005b", "b86d79f122e8955d39269e6a3d2e4ed0": "bb34dae1b1b4754fc806e42779f22b1e", "9502ee217a75900cf2d7608b1a186a03": "fcd6e00f9ecf85f3b4ea91471c9ef02e", "0f2dac86df555a5a7576dadcf5862fda": "490f20b0316313d2025264b700ad7e1f"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ISdXQsHaXzzyMLs6YDMAWw","kid":"s0bTnqKPedz4tKHeNbxMug"},{"kty":"oct","k":"u3Ta4bG0dU_IBuQnefIrHg","kid":"uG158SLolV05Jp5qPS5O0A"},{"kty":"oct","k":"_NbgD57PhfO06pFH_J7wLg","kid":"lQLuIXp1kAzy12CLGhhqAw"},{"kty":"oct","k":"SQ8gsDFjE9ICUmS3AK1-Hw","kid":"Dy2sht9VWlp1dtrcxYYv2g"}],"type":"temporary"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
 
 #EXTINF:-1 group-title="bein",trt 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"e4f022a08508d006918dd90275feff34": "0eb4ccdf0d39c9e5a4a0b596ab5751a9", "033307a147a4d35a99109a79b2aa3e8c": "a1e51fff110f8784491219998c447ab2", "e6042fe46ecd1b2a15c2771a25fbb7ba": "8939d00458e7883730cdd60ba0e391f2", "0936d915376efcd813ce40428601cc31": "c542de1c1fb7e64b48fe72e14b6b6dc4"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DrTM3w05yeWkoLWWq1dRqQ","kid":"5PAioIUI0AaRjdkCdf7/NA"},{"kty":"oct","k":"oeUf/xEPh4RJEhmZjER6sg","kid":"AzMHoUek01qZEJp5sqo+jA"},{"kty":"oct","k":"iTnQBFjniDcwzdYLoOOR8g","kid":"5gQv5G7NGyoVwncaJfu3ug"},{"kty":"oct","k":"xULeHB+35ktI/nLhS2ttxA","kid":"CTbZFTdu/NgTzkBChgHMMQ"}],"type":"temporary"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/490/1/live.mpd
 
 
