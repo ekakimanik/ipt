@@ -201,10 +201,9 @@ https://live-ott.izzigo.tv/7/out/u/dash/CANAL-5-HD-H265/default.mpd
 http://a173aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/suekwxntzd/out/v1/c67db31de6b447a48a70e997c33eb71f/cenc.mpd?aws.sessionId=604b84a9-6b95-405e-ab91-4df95a9c66fe&encoding=segmentBase
 
 
-#EXTINF:-1 tvg-id="PrimeVideo.Live" tvg-name="Prime Video Live" group-title="Amazon Live",fifa live
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTM3U
+#EXTINF:-1 group-title="Prime Video",Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/qmjlikytt2/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9V3Itm7U_GdT1gNa5-FxRA","kid":"MAicUpJPA3siW4LGFv7ipQ"}],"type":"temporary"}
+https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
