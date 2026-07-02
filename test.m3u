@@ -33,7 +33,7 @@ https://ucdn.starhubgo.com/bpk-tv/FIFAWCCh1/output/manifest.mpd
 #EXTINF:-1 group-title="StarHub",FIFA WC Ch2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3QluQhJZe7GUinjhJJCi7w","kid":"bpR/zBfWQtucGgxFv3GAEQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=6e947fce17d642db9c1a0c45bf718011:dd096e4212597bb1948a78e12490a2ef
 https://ucdn.starhubgo.com/bpk-tv/FIFAWCCh2/output/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",  cricket
