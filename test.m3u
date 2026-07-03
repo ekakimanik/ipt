@@ -194,12 +194,12 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c
 https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
 
-
-#EXTINF:-1 group-title="Fusstball tv",Fusstball tv 4k
+#EXTINF:-1 group-title="Sports",Fusstball tv 4k
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4f558eae1b005126b2ac6e9eb1a7849e": "17aea325d91b5e66f06a8c574f2f0b03", "b73f76658d1f5ce38420f380421bafe3": "9ebdbf32f90b546f66603104b2ac3c8a", "e1f8fc6898fc5bf7a00b5609af23fee0": "98b7133ee006d9fae111ec0cb366641c", "e511fb81360c5f14b681605d1de52046": "ec72f335d0e436ac7dc1d936aea1144a"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"F66jJdkbXmbwahxXTy8LAw","kid":"T1WOrhsAUSayrG6esaeEng"},{"kty":"oct","k":"nt2/MvgLVG9mYDEEsqw8ig","kid":"tz92ZY0fXOOEIPOAQhuvew"},{"kty":"oct","k":"mLcTPuAG2frhEewMo2ZkHA","kid":"4fj8aJj8W_egC1YJryP-4A"},{"kty":"oct","k":"7HLzNdDkNqx9wdk2rqEUSg","kid":"5RH7gTYMXxS2gWBdHethSg"}],"type":"temporary"}
 https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
+
 
 #EXTINF:-1 group-title="izzi",Canal 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
