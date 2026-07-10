@@ -34,7 +34,7 @@ https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/86966d5956d94
 #EXTINF:-1 group-title="StarHub",FIFA WC Ch1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3s3pl26nbRqR-R2b8Gj0Ew","kid":"nmlfjGXXTGqYJ6LjU2fAhg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413
 https://ucdn.starhubgo.com/bpk-tv/FIFAWCCh1/output/manifest.mpd
 
 #EXTINF:-1 group-title="StarHub",FIFA WC Ch2
