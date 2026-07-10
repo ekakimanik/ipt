@@ -43,10 +43,10 @@ https://ucdn.starhubgo.com/bpk-tv/FIFAWCCh1/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=6e947fce17d642db9c1a0c45bf718011:dd096e4212597bb1948a78e12490a2ef
 https://ucdn.starhubgo.com/bpk-tv/FIFAWCCh2/output/manifest.mpd
 
-#EXTINF:-1 group-title="French",M6 HD (6play)
+#EXTINF:-1 group-title="m6",m6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kBVNCn9Pe6dykRu3LHbIbg","kid":"SnmXtH7cMSSmxRZR/qJkcA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=4a7997b47edc3124a6c51651fea26470:90154d0a7f4f5ba772911bb72c76c86e
 https://sr-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
 
 #EXTINF:-1 group-title="Sports",TSN 1 HD
