@@ -79,6 +79,11 @@ https://sr-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xfiuIwxnOLmAy1J2SkEnjA","kid":"3Y8Pio5vRnSb24myCjLwQA"},{"kty":"oct","k":"xfiuIwxnOLmAy1J2SkEnjA","kid":"xN7G1GcKWBiapxZDJwxqmg"},{"kty":"oct","k":"xfiuIwxnOLmAy1J2SkEnjA","kid":"nm2W9FCWXGu4AIEpC6BmBQ"},{"kty":"oct","k":"xfiuIwxnOLmAy1J2SkEnjA","kid":"on4MDgfMVe+XjE4VWreypQ"}],"type":"temporary"}
 https://stream.video.9c9media.com/31d4792ae2b8217d51665675de6caede22a1ab8d1754853178570/d/tsn/tsn1a/manifest.mpd
 
+#EXTINF:-1 group-title="Fusball",Fball
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4f558eae1b005126b2ac6e9eb1a7849e": "17aea325d91b5e66f06a8c574f2f0b03", "b73f76658d1f5ce38420f380421bafe3": "9ebdbf32f90b546f66603104b2ac3c8a", "e1f8fc6898fc5bf7a00b5609af23fee0": "98b7133ee006d9fae111ec0cb366641c", "e511fb81360c5f14b681605d1de52046": "ec72f335d0e436ac7dc1d936aea1144a"}
+https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",  cricket
  (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -194,7 +199,7 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd
 https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
 
 
-#EXTM3U
+
 
 #EXTINF:-1 tvg-id="ProSiebenSat1UHD.de" tvg-name="ProSiebenSat.1 UHD" tvg-logo="https://raw.githubusercontent.com/Fazzani/TV-Logos/master/Germany/ProSiebenSat.1_UHD.png" group-title="MagentaTV UHD",ProSiebenSat.1 UHD
 #KODIPROP:inputstream=inputstream.adaptive
