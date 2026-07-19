@@ -8,14 +8,15 @@ https://premierleageplnew2.akamaized.net/hls/live/2107109/Tapmad-10293j76r4/mast
 #EXTINF:-1 group-title="Local Internal",ISP Channel 102
 http://172.31.177.10:8088/102/index.m3u8
 
-#EXTINF:-1 group-title="CNBox Live",CNBox Channel 1
-http://iptv.cnbox.tv/live/androidapp/androidapp/1.ts
+#EXTINF:-1 group-title="ChitroBox",ChitroBox Channel 1
+https://iptv.chitrobox.net/demotv/demotv/1.m3u8
 
-#EXTINF:-1 group-title="CNBox Live",CNBox Channel 2
-http://iptv.cnbox.tv/live/androidapp/androidapp/2.ts
+#EXTINF:-1 group-title="ChitroBox",ChitroBox Channel 2
+https://iptv.chitrobox.net/demotv/demotv/2.m3u8
 
-#EXTINF:-1 group-title="CNBox Live",CNBox Channel 3
-http://iptv.cnbox.tv/live/androidapp/androidapp/3.ts
+#EXTINF:-1 group-title="ChitroBox",ChitroBox Channel 51
+https://iptv.chitrobox.net/demotv/demotv/51.m3u8
+
 
 #EXTINF:-1 group-title="CNBox Live",CNBox Channel 19
 http://iptv.cnbox.tv/live/androidapp/androidapp/19.ts
